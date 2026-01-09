@@ -15,7 +15,8 @@ on:
 permissions:
   # Need `contents: read` to checkout the repository.
   # Need `contents: write` to update the step metadata.
-  # Need `pull-requests: write` to create a pull request.
+  # Need `pull-requests: write` to create a pull requeskkkkkkkkkkkkk
+
   contents: write
   pull-requests: write
 
